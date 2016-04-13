@@ -1,0 +1,14 @@
+
+{
+  "name"         : "Yahoo-Finance-Parser",
+  "version"      : "0.0.1",
+  "description"  : "Parse the yahoo finance website",
+  "repository"   : {
+  },
+  "dependencies" : {
+    "express"    : "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "body-parser": "latest"
+  }
+}
